@@ -23,5 +23,6 @@ EP1 などは製作中
 ```
 cd project
 composer install
+cp .env.example .env
 php artisan key:generate
 npm install
